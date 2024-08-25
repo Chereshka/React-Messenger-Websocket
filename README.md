@@ -19,20 +19,20 @@ This is a simple messaging application with a Node.js backend and a React fronte
    ```bash
    git clone https://github.com/your-username/fullstack-messaging-app.git
    cd fullstack-messaging-app
-    ```bash
-   
+   ```
 2. **Install dependencies:**
 
 ### Backend: 
  ```bash
   cd message-back
   npm install 
+  ```
   
 ### Frontend
  ```bash:
   cd message-front
   npm install
- ```bash
+ ```
 
 3. **Running the application:**
 
@@ -40,8 +40,9 @@ This is a simple messaging application with a Node.js backend and a React fronte
  ```bash 
   cd message-back
   npm run start
-   
+   ```
 ### Frontend:
  ```bash
   cd message-front
   npm run start
+  ```

@@ -23,19 +23,23 @@ This is a simple messaging application with a Node.js backend and a React fronte
 2. **Install dependencies:**
 
 Backend: 
+ ```bash
   cd message-back
   npm install
   
-Frontend:
+Frontend
+ ```bash:
   cd message-front
   npm install
 
 3. **Running the application:**
 
-Backend: 
+Backend:
+ ```bash 
   cd message-back
   npm run start
   
 Frontend:
+ ```bash
   cd message-front
   npm run start
